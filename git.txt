@@ -52,6 +52,13 @@ git的远程仓库
 	3.将id_rsa.pub中的公钥配置在远程仓库的SSH公钥位置
  6. $ git clone URL 下载远程仓库至本地
 
+git与idea集成
+ 1. 在Setting中选择git的位置
+ 2. 打开版本控制 VCS -- > Enable Version Controll -- > git
+ 3. VCS -- > Add | Commit
+ 4. 在Setting中搜索Terminal 将cmd.exe 更换为 sh.exe
+ 5. 使用命令的形式进行版本控制
+ 6. 如需关闭版本控制 在.idea文件夹中删除vcs.xml
 
 
 
