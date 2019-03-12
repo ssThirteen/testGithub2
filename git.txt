@@ -52,7 +52,7 @@ git的远程仓库
 	3.将id_rsa.pub中的公钥配置在远程仓库的SSH公钥位置
  6. $ git clone URL 下载远程仓库至本地
 
-
+local1
 
 
 
